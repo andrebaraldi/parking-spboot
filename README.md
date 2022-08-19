@@ -4,5 +4,5 @@
 
 Tecnologias utilizadas:
 - Spring Boot;
-- Spring JPA
+- Spring JPA; 
 - Sprinf Security.
